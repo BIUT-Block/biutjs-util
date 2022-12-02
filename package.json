@@ -45,7 +45,7 @@
     "chai": "^4.1.2",
     "contributor": "^0.1.25",
     "coveralls": "^3.0.6",
-    "documentation": "^5.2.0",
+    "documentation": "^14.0.0",
     "istanbul": "^0.4.1",
     "karma": "^2.0.5",
     "karma-browserify": "^5.3.0",
